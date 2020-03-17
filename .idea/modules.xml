@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" group="Robovines-2020-summer/FtcRobotController" />
+      <module fileurl="file://$PROJECT_DIR$/Robovines-2020-summer.iml" filepath="$PROJECT_DIR$/Robovines-2020-summer.iml" group="Robovines-2020-summer" />
+      <module fileurl="file://$PROJECT_DIR$/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/TeamCode/TeamCode.iml" group="Robovines-2020-summer/TeamCode" />
+    </modules>
+  </component>
+</project>
